@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.harvestprintingcentre.app.util.OrderCalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-19T07:59:55" hostname="STTMPHO" time="0.014">
+  <properties/>
+  <testcase name="summaryCountsTotalUnits" classname="com.harvestprintingcentre.app.util.OrderCalculatorTest" time="0.006"/>
+  <testcase name="totalMultipliesPriceByQuantity" classname="com.harvestprintingcentre.app.util.OrderCalculatorTest" time="0.0"/>
+  <testcase name="quantitiesAreClamped" classname="com.harvestprintingcentre.app.util.OrderCalculatorTest" time="0.001"/>
+  <testcase name="totalIsNullWhenAnyPriceIsUnknownOrThereAreNoLines" classname="com.harvestprintingcentre.app.util.OrderCalculatorTest" time="0.0"/>
+  <testcase name="buildLinesKeepsOnlyPositiveQuantitiesInServiceOrder" classname="com.harvestprintingcentre.app.util.OrderCalculatorTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
