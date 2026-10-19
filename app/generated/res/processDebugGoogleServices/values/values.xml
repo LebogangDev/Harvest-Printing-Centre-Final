@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1015894959744-7po97t4902pntkp76ts92bqs8jq8csdq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1015894959744</string>
+    <string name="google_api_key" translatable="false">AIzaSyDjiWfKvkCjEn08lF48A3RYmLy2CE7NUVA</string>
+    <string name="google_app_id" translatable="false">1:1015894959744:android:07e0424baf30f926932865</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjiWfKvkCjEn08lF48A3RYmLy2CE7NUVA</string>
+    <string name="google_storage_bucket" translatable="false">harvest-printing-centre-a7eb8.firebasestorage.app</string>
+    <string name="project_id" translatable="false">harvest-printing-centre-a7eb8</string>
+</resources>
