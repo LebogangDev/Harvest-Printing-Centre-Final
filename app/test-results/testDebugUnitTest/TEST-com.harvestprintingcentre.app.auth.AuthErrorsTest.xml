@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.harvestprintingcentre.app.auth.AuthErrorsTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-10-19T07:59:53" hostname="STTMPHO" time="0.023">
+  <properties/>
+  <testcase name="genericInvalidCredentialWhenFirebaseHidesWhichPartWasWrong" classname="com.harvestprintingcentre.app.auth.AuthErrorsTest" time="0.011"/>
+  <testcase name="unknownEmail" classname="com.harvestprintingcentre.app.auth.AuthErrorsTest" time="0.001"/>
+  <testcase name="wrongPassword" classname="com.harvestprintingcentre.app.auth.AuthErrorsTest" time="0.001"/>
+  <testcase name="malformedEmail" classname="com.harvestprintingcentre.app.auth.AuthErrorsTest" time="0.001"/>
+  <testcase name="disabledAccountIsNotReportedAsUnknownEmail" classname="com.harvestprintingcentre.app.auth.AuthErrorsTest" time="0.0"/>
+  <testcase name="emailAlreadyRegistered" classname="com.harvestprintingcentre.app.auth.AuthErrorsTest" time="0.002"/>
+  <testcase name="noInternet" classname="com.harvestprintingcentre.app.auth.AuthErrorsTest" time="0.002"/>
+  <testcase name="anythingElseIsGeneric" classname="com.harvestprintingcentre.app.auth.AuthErrorsTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

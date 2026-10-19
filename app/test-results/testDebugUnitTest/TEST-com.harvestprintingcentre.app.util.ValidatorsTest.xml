@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.harvestprintingcentre.app.util.ValidatorsTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-10-19T07:59:55" hostname="STTMPHO" time="0.018">
+  <properties/>
+  <testcase name="passwordRulesMatchFirebaseMinimumOfSix" classname="com.harvestprintingcentre.app.util.ValidatorsTest" time="0.005"/>
+  <testcase name="phoneNumbersRejectLettersAndWrongLengths" classname="com.harvestprintingcentre.app.util.ValidatorsTest" time="0.003"/>
+  <testcase name="validEmailsAreAccepted" classname="com.harvestprintingcentre.app.util.ValidatorsTest" time="0.004"/>
+  <testcase name="nameNeedsAtLeastTwoCharacters" classname="com.harvestprintingcentre.app.util.ValidatorsTest" time="0.001"/>
+  <testcase name="phoneNumbersAcceptLocalAndInternationalFormats" classname="com.harvestprintingcentre.app.util.ValidatorsTest" time="0.001"/>
+  <testcase name="invalidEmailsAreRejected" classname="com.harvestprintingcentre.app.util.ValidatorsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

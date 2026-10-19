@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.harvestprintingcentre.app.data.ApiIntegrationTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2026-10-19T07:59:53" hostname="STTMPHO" time="1.806">
+  <properties/>
+  <testcase name="malformedJsonIsAParseErrorNotACrash" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="1.037"/>
+  <testcase name="anEmptyCreatedReplyIsStillASuccess" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="0.181"/>
+  <testcase name="baseUrlIsValidatedBeforeRetrofitSeesIt" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="0.031"/>
+  <testcase name="successfulLoadIsCachedAndCanBeCleared" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="0.042"/>
+  <testcase name="pastOrdersWithFirestoreTimestampsAreLoadedNewestFirst" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="0.064"/>
+  <testcase name="servicesAreParsedAndNoTokenIsNeeded" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="0.047"/>
+  <testcase name="noSignedInUserMeansUnauthorizedAndNoRequestIsSent" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="0.026"/>
+  <testcase name="anExpiredTokenIsReportedSoTheUserCanSignInAgain" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="0.041"/>
+  <testcase name="httpStatusCodesMapToSensibleKinds" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="0.008"/>
+  <testcase name="requestBodyHoldsOnlyServiceIdAndQuantity" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="0.004"/>
+  <testcase name="missingApiAddressIsAConfigErrorNotACrash" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="0.02"/>
+  <testcase name="aRejectedOrderShowsAClientError" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="0.041"/>
+  <testcase name="placingAnOrderPostsOnlyIdsAndQuantitiesWithTheBearerToken" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="0.069"/>
+  <testcase name="serverErrorBecomesAFriendlyMessageInsteadOfACrash" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="0.159"/>
+  <testcase name="anUnreachableServerShowsANetworkMessage" classname="com.harvestprintingcentre.app.data.ApiIntegrationTest" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

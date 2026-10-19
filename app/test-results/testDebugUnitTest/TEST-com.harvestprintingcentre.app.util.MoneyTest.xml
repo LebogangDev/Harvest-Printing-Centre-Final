@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.harvestprintingcentre.app.util.MoneyTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-19T07:59:55" hostname="STTMPHO" time="0.008">
+  <properties/>
+  <testcase name="parsesThousandsSeparators" classname="com.harvestprintingcentre.app.util.MoneyTest" time="0.002"/>
+  <testcase name="formatRandAlwaysUsesTwoDecimals" classname="com.harvestprintingcentre.app.util.MoneyTest" time="0.001"/>
+  <testcase name="parsesDecimalComma" classname="com.harvestprintingcentre.app.util.MoneyTest" time="0.001"/>
+  <testcase name="displayPriceFormatsNumbersAndKeepsText" classname="com.harvestprintingcentre.app.util.MoneyTest" time="0.001"/>
+  <testcase name="returnsNullWhenThereIsNoNumber" classname="com.harvestprintingcentre.app.util.MoneyTest" time="0.0"/>
+  <testcase name="parsesPlainAndRandPrefixedNumbers" classname="com.harvestprintingcentre.app.util.MoneyTest" time="0.0"/>
+  <testcase name="takesTheFirstNumberFromDescriptiveText" classname="com.harvestprintingcentre.app.util.MoneyTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
