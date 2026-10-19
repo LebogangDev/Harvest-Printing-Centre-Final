@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1015894959744",
+    "project_id": "harvest-printing-centre-a7eb8",
+    "storage_bucket": "harvest-printing-centre-a7eb8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015894959744:android:07e0424baf30f926932865",
+        "android_client_info": {
+          "package_name": "com.harvestprintingcentre.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015894959744-5reu3eoji8pn3q6de841e6cif6lre1v6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harvestprintingcentre.app",
+            "certificate_hash": "6fb1742bab5f72c497707677c2588892d9f2593d"
+          }
+        },
+        {
+          "client_id": "1015894959744-7po97t4902pntkp76ts92bqs8jq8csdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjiWfKvkCjEn08lF48A3RYmLy2CE7NUVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015894959744-7po97t4902pntkp76ts92bqs8jq8csdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
