@@ -215,7 +215,7 @@ Offline-friendly service photos	Photos are bundled in the app, so they load inst
 Friendly error handling with Try again	No crashes when the server is asleep or the phone is offline
 Live form checks with typo suggestions	Catches mistakes like gmail.con as the customer types
 Demo Video
-https://youtu.be/qKt-ICMOcjE?si=vEx-g_idREhvzBam
+https://youtu.be/yFQPDNTSFkw?si=NK-pOLaoYmxcHvqq
 Watch the demo on YouTube (unlisted)
 
 The video shows registering and logging in with email and Google, every app screen, the website, ordering through the API, and the data behind it: the Firebase Authentication user list, the API responding in Postman, and the Firestore collections with new documents.
